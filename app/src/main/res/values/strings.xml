@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="clearbutton">Clear</string>
+    <string name="TotalAmount">Total Amount</string>
+    <string name="TaxAmount">Tax Amount</string>
+    <string name="enteramount">0.00</string>
+    <string name="Entertax">0.00</string>
+    <string name="radioButtonZero">0%</string>
+    <string name="radoButtonFive">5%</string>
+    <string name="radioButtonTen">10%</string>
+    <string name="radiButtonTwenty">20%</string>
+    <string name="tipAmount">Tip Amount</string>
+    <string name="grandtotal">GrandTotal</string>
+    <string name="calculatebutton">Calculate</string>
+    <string name="entertipamount">0.00</string>
+    <string name="entergrandtotal">0.00</string>
+</resources>
